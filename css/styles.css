@@ -54,7 +54,10 @@ hr {
 }
 
 .middle-container {
+  background-color: #a7bbc750;
+  padding-bottom: 100px;
 }
+
 
 .bottom-container {
   background-color: #a7bbc7;
