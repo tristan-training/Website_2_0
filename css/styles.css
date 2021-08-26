@@ -156,4 +156,26 @@ hr {
 .links-attributions {
   position: relative;
 }
+
+
+.btn {
+  border-radius: 5px;
+  color: #A7BBC7;
+  font-family: "Raleway", sans-serif;
+  font-size: 32px;
+  font-weight: 200;
+  padding: 15px;
+  background-color: #8F6262;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  background: #362222;
+  border-radius: 0;
+  text-decoration: none;
+  border-radius: 5px;
+}
 /************************************************ TAG-CLASS SELECTORS *****************************************************/
