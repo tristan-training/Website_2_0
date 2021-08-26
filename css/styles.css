@@ -68,6 +68,9 @@ hr {
   margin: 60px auto 60px auto;
 }
 
+
+
+
 .skill-database {
   width: 25%;
   float: right;
@@ -109,9 +112,15 @@ hr {
 
 .get-in-touch {
   padding: 15px;
-  width: 50%;
+  width: 30%;
+  
+  margin: auto;
 }
 
+.intro {
+  margin: auto;
+  width: 30%;
+}
 
 .bottom-container-left {
   text-align: left;
